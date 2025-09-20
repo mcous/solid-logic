@@ -46,5 +46,8 @@
     "lint-staged": "^16.1.5",
     "rdflib": "^2.2.37",
     "solid-namespace": "^0.5.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
