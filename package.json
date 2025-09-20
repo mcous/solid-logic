@@ -1,6 +1,6 @@
 {
   "name": "@mcous/solid-logic",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Core business logic of Solid OS!",
   "main": "lib/index.js",
   "scripts": {
